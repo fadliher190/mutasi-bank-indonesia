@@ -1,0 +1,10 @@
+{
+  "name": "mutasi-bank-indonesia",
+  "version": "1.0.0",
+  "description": "mutasi bank di indonesia",
+  "main": "index.js",
+  "repository": "https://github.com/fadliher190/mutasi-bank-indonesia",
+  "author": "fadliher190",
+  "license": "MIT",
+  "private": false
+}
